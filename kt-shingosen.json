@@ -1,6 +1,7 @@
 {
  "work": "新後撰和歌集",
  "work_id": "kt-shingosen",
+ "repo": "kumoi-no-fumigura/shingosen-wakashu",
  "yomi": "しんごせんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -19365,6 +19366,5 @@
    "text": "榊とる三神の山にゆふかけて祈るひづぎの猶やさかえむ",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shingosen-wakashu"
+ ]
 }
